@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("master commit");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("pull commit");
         // 已经被追踪的文件 可以不用提交暂存区 可以直接提交本地库
     }
 }
