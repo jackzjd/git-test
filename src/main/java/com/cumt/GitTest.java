@@ -6,6 +6,8 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello git3");
+        System.out.println("hello git4");
         // 已经被追踪的文件 可以不用提交暂存区 可以直接提交本地库
     }
 }
+
