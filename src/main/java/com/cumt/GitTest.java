@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello git4");
+        System.out.println("hot-fix test");
         // 已经被追踪的文件 可以不用提交暂存区 可以直接提交本地库
     }
 }
